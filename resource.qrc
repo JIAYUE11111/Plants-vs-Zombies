@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>9.wma</file>
+        <file>love.wav</file>
+        <file>awooga.wav</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>9.wma</file>
+        <file>love.wav</file>
+        <file>awooga.wav</file>
+    </qresource>
+</RCC>
